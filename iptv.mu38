@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16-4K
+https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV-4K
+https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
+https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
+https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3
+https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
+https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5
+https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6
+https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7
+https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8
+https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
+https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
+https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11
+https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12
+https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
+https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
+https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
+https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
+https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
+https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
+https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
+https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
+https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
+https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视
+https://live.v1.mk/api/bestv.php?id=scwshd/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
+https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视
+https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
+https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
+https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
+https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png",吉林卫视
+https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
+https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",云南卫视
+https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视
+https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",欢笑剧场4K
+https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
